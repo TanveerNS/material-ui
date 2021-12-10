@@ -5,7 +5,6 @@
 <h1 align="center">MUI</h1>
 
 <div align="center">
-
 Quickly build beautiful [React](https://reactjs.org/) apps. MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with [Material Design](https://material.io/design/introduction/).
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mui-org/material-ui/blob/master/LICENSE)
