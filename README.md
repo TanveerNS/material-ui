@@ -2,7 +2,7 @@
   <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="https://mui.com/static/logo.svg" alt="MUI logo"></a></p>
 </p>
 
-<h1 align="center">MUI</h1>
+<h1 align="center"> MUI </h1>
 
 <div align="center">
 Quickly build beautiful [React](https://reactjs.org/) apps. MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with [Material Design](https://material.io/design/introduction/).
@@ -18,7 +18,6 @@ Quickly build beautiful [React](https://reactjs.org/) apps. MUI is a simple and 
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mui-org/material-ui.svg)](https://isitmaintained.com/project/mui-org/material-ui 'Average time to resolve an issue')
 [![Crowdin](https://badges.crowdin.net/material-ui-docs/localized.svg)](https://translate.mui.com/project/material-ui-docs)
 [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/material-ui)](https://opencollective.com/material-ui)
-
 </div>
 
 ## Installation
@@ -99,15 +98,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Button from '@mui/material/Button';
 
-function App() {
-  return (
-    <Button variant="contained" color="primary">
-      Hello World
-    </Button>
-  );
-}
+  function App() {
+    return (
+      <Button variant="contained" color="primary">
+        Hello World
+      </Button>
+    );
+  }
 
-ReactDOM.render(<App />, document.querySelector('#app'));
+  ReactDOM.render(<App />, document.querySelector('#app'));
 ```
 
 Yes, it's really all you need to get started as you can see in this live and interactive demo:
